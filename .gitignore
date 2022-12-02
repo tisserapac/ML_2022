@@ -1,3 +1,21 @@
+#My Ignore
+
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+Final/
+Height-Weight-Linear-Regression.ipynb
+Lab2/
+Lec2-HW/
+Lec_Notes/
+ML2022-01-Linear-Regression/
+ML2022-03-Logistic-Regression-Students/
+Midterm/
+Lab-Ex/ML2022-13-Reinforcement-Learning_temp/video_rl/
+Lab-Ex/ML2022-13-Reinforcement-Learning/video_rl/
+**/data/cat_dog/
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
